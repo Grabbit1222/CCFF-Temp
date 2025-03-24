@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/vs,c++,unrealengine
 # Edit at https://www.toptal.com/developers/gitignore?templates=vs,c++,unrealengine
 
+.idea
 ### C++ ###
 # Prerequisites
 *.d
