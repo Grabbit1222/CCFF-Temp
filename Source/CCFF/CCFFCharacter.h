@@ -15,7 +15,6 @@ struct FInputActionValue;
 
 DECLARE_LOG_CATEGORY_EXTERN(LogTemplateCharacter, Log, All);
 
-
 UCLASS(config=Game)
 class ACCFFCharacter : public ACharacter
 {
@@ -56,7 +55,7 @@ protected:
 
 	/** Called for looking input */
 	void Look(const FInputActionValue& Value);
-
+			
 
 protected:
 
